@@ -1,20 +1,24 @@
-Corporate blogs:
+Register Corporate blogs:
 first window:
 Institution:
 Full name:
 Role:
 Company email:
+(optional) Would like a consultation on how to start a blog for your business (tick boxes that say yes or no)
 second window:
-How many writers are you loooking for:
+How many writers are you looking for:
 1-3, 4-10, 10 or more
 The relevant field that your firm is looking for in our writers:
 Dropdown menu: academic, tech, food, wellbeing, lifestyle, sociology, general marketing, hospitality, other(specify).
 
+third window:
 Did you already discuss with your marketing team a topic idea, well, would you to share this information? 
 This helps us narrow down more accurately
 the kind of writers your firm is looking for(optional):(textbox)
 
 Thank you for submitting your form! Our team will inspect your form, then,
-we will contact your email soon with a few recommended writer's portfolios within our agency.
+we will contact your email soon with a few recommended writer's portfolios within our agency and content ideas.
+(if they have ticked yes for a consultation then add this sentence) 
+One of our content marketing experts will contact you soon to schedule a meeting with you or your business associate.
 
 

@@ -1,18 +1,37 @@
+body {
+        width: 100%;
+        background-color: #67a1ed;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 8px rgb(246, 137, 243);
+    }
+
+    footer > p {
+        width: 100%;
+        clear: both;
+        image-rendering: optimizeQuality;
+    }
+
+    article {
+        background-image: url("http://cdn2.hubspot.net/hubfs/145335/blogging-for-business-heres-everything-you-need-to-know.jpg");
+        background-size: cover;
+    }
+    
 .banner {
     background-image: url("https://ocls.info/sites/default/files/initiative/logo/writers-corner-banner.png");
     background-size: cover;
 }
 .in{
 	height: 80px;
-	width: 300px;
+	width: 50%;
 	background: inherit;
-    border: 10px solid brown;
+    border: 10px thin rgb(125, 205, 255);
 	display: inline-block;
     font-weight: bold;
+    font
 }
 
 .contain{
 	border: 1px solid black;
 	padding: 10px;
-	text-align: center; 
+	text-align: centre;
 }

@@ -1,0 +1,18 @@
+.banner {
+    background-image: url("https://ocls.info/sites/default/files/initiative/logo/writers-corner-banner.png");
+    background-size: cover;
+}
+.in{
+	height: 80px;
+	width: 300px;
+	background: inherit;
+    border: 10px solid brown;
+	display: inline-block;
+    font-weight: bold;
+}
+
+.contain{
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center; 
+}

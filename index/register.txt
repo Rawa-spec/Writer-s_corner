@@ -12,12 +12,12 @@ The relevant field that your firm is looking for in our writers:
 Dropdown menu: academic, tech, food, wellbeing, lifestyle, sociology, general marketing, hospitality, other(specify).
 
 third window:
-Did you already discuss with your marketing team a topic idea, well, would you to share this information? 
+Did you already discuss with your marketing team a topic idea, well, would you like to share this information? 
 This helps us narrow down more accurately
 the kind of writers your firm is looking for(optional):(textbox)
 
 Thank you for submitting your form! Our team will inspect your form, then,
-we will contact your email soon with a few recommended writer's portfolios within our agency and content ideas.
+we will contact your email soon with a few recommended writers' portfolios within our agency and content ideas.
 (if they have ticked yes for a consultation then add this sentence) 
 One of our content marketing experts will contact you soon to schedule a meeting with you or your business associate.
 

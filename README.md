@@ -69,8 +69,8 @@ Our contacts show the means of the communication for the customer to get in touc
 - Screen compatibility 
     - I have checked that the screen compatibility using the website, 'AM I RESPONSIVE?' [website](https://ui.dev/amiresponsive)
 - Performance
-    - The site performace was tested on lighthouse and received a score of 84.[website](https://googlechrome.github.io/lighthouse/viewer/). 
-    ![Performance on lighthouse](assets/performance.png)
+    - The site performace was tested on lighthouse and received a score of 84.[website](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Frawa-spec.github.io%2FWriter-s_corner%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext). 
+    ![Performance on lighthouse](assets/performace2.png)
 
 ## Deployment procedure
 

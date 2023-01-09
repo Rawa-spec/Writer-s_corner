@@ -31,17 +31,17 @@ title{
     font-style: normal;
     margin-right: 100px;
 }
-ul {
+header ul {
     display: flex;
     float: right;
     flex-wrap: wrap;
 }
-li {
+header li {
     list-style: none;
     margin-left: 10px;
     margin-right: 10px;
 }
-li > a{
+header li > a{
     text-decoration: none;
     color: white;
 }
@@ -92,6 +92,9 @@ article {
 .section {
     min-height: 500px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .section a {
@@ -107,12 +110,18 @@ article {
     text-align: left;
     color: white;
     text-shadow: 10px;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    justify-content: center;
-    min-height: 500px;
-    padding: 20px;
+    justify-content: center; */
     background-image: url(https://images.pexels.com/photos/1448709/pexels-photo-1448709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+.section-2 {
+    text-align: left;
+    color: white;
+    background: white;
+    color: black;
+    padding-left: 50px;
 }
 
 

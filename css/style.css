@@ -50,6 +50,8 @@ header{
     height: 80px;
     width: 100vw;
     display: flex;
+    position: fixed;
+    z-index: 1000;
     flex-direction: row;
     justify-content: space-around;
     background: black;

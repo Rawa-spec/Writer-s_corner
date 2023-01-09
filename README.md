@@ -74,7 +74,7 @@ Our contacts show the means of the communication for the customer to get in touc
 
 ## Deployment procedure
 
-The application is deployed by configuring github to use the main branch for a github pages site.
+The application is deployed by configuring the github repository to use the main branch for a github pages site. Each commit to the main branch will update the site url.
 
 ## Credits
 

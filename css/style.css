@@ -125,5 +125,20 @@ article {
 }
 
 
+.section-3 {
+    text-align: left;
+    color: white;
+    background: black;
+    color: white;
+    padding-left: 50px;
+}
+
+button {
+    background: white;
+    padding: 10px;
+    display: block;
+}
+
+
 
 

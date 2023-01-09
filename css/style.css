@@ -149,6 +149,20 @@ button {
 
 }
 
+footer{
+    padding: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.social_media{
+    height: 40px;
+	width: 40px;
+	display: inline-block;
+    margin: 10px
+}
+
 
 
 

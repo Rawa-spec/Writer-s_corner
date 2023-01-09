@@ -40,6 +40,7 @@ header li {
     list-style: none;
     margin-left: 10px;
     margin-right: 10px;
+    text-decoration: underline;
 }
 header li > a{
     text-decoration: none;
@@ -177,5 +178,22 @@ footer{
 }
 
 
+@media (max-width:600px) {
+    .logo{
+        font-size: 15px;
+    }
 
+    header li {
+        font-size: 15px;
+    }
+
+    .tutorial-video{
+        height: 200px;
+        width: 300px;
+        border: 5px white solid
+    }
+    .black-background{
+       margin-top: 100px;
+    }
+}
 

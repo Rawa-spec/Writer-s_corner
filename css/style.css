@@ -95,6 +95,7 @@ article {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    line-height: 30px;
 }
 
 .section a {
@@ -137,6 +138,15 @@ button {
     background: white;
     padding: 10px;
     display: block;
+}
+
+.section-4 {
+    text-align: left;
+    color: white;
+    background: white;
+    color: black;
+    padding-left: 50px;
+
 }
 
 
